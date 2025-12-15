@@ -1,0 +1,17 @@
+.conteiner {
+   background-color: rgba(224, 255, 214, 0.555);
+   padding: 80px 50px;
+}
+.conteiner-center{
+    text-align: center;
+}
+.button {
+    background-color: #38a169;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    
+}
+.conteiner-title  {
+
+}

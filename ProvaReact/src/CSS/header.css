@@ -1,0 +1,22 @@
+.headerstyle {
+    background-color: rgb(10, 119, 43);
+    padding: 30px 30px;
+    color: white;
+}
+.headerlogocontainer {
+    text-align: center;
+    font-size: 30px;
+    
+}
+.navmenu {
+ text-align: center;
+}
+.navlink {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.navlink:hover {
+   color: #13490a;
+   transition: 0.5s;
+}
