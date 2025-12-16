@@ -1,6 +1,7 @@
 .conteiner {
    background-color: rgba(224, 255, 214, 0.555);
    padding: 80px 50px;
+   border-bottom: 5px solid #33c4197e;
 }
 .conteiner-center{
     text-align: center;
@@ -10,8 +11,20 @@
     color: white;
     border: none;
     border-radius: 15px;
-    
+    height: 30px;
+    width: 130px;
+}
+.button:hover {
+   color: #13490a;
+   transition: 0.5s;
 }
 .conteiner-title  {
-
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: #13490a;
+}
+.conteiner-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #289914;
 }

@@ -1,0 +1,20 @@
+.card-ing {
+    display: flex;
+    justify-content: center;
+}
+.vant-text {
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1c6b0f;
+  text-align: center;
+}
+.linhav{
+  border-bottom: 3px solid #33c4197e;
+  width: 63%;
+  margin: 10px auto;
+}
+.conteiner-vantagens {
+    padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}

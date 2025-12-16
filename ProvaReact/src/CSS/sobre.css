@@ -1,0 +1,30 @@
+.sobre-conteiner{
+    padding: 60px 40px;
+    border-radius: 12px;
+    max-width: 1100px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title-sobre{
+ text-align: center;
+ font-weight: normal;
+ color: #1c6b0f;
+}
+.sobre-text{
+ text-align: center;
+ font-size: 17px;
+ font-weight: normal;
+  color: #7a7a7a;
+}
+.Identidade{
+ display: flex;
+ justify-content: center;
+ gap: 50px;
+font-family: Arial, Helvetica, sans-serif;
+color: #2cb417;
+}
+.linhaS {
+    border-bottom: 3px solid #33c4197e;
+  width: 63%;
+  margin: 10px auto;
+}

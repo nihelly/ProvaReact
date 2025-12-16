@@ -1,0 +1,23 @@
+.ing {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    width: 170px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+.avocado {
+   font-size: 30px;
+}
+.title-ing {
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2aa115;
+  font-size: 17px;
+}
+.text-ing {
+  font-weight: 30;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #7a7a7a;
+}
